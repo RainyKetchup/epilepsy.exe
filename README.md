@@ -1,0 +1,2 @@
+# epilepsy.exe
+GDI malware
